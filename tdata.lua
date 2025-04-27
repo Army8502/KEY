@@ -1,4 +1,4 @@
-Free_Time20
+Free_Time10
 SEEGAME_7Day
 SEEGAME_7Day_01
 SEEGAME_7Day_X01
