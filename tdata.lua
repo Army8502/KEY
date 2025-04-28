@@ -9,5 +9,7 @@ SEEGAME_7Day_X152
 --------
 SEEGAME_7Day_X131
 --------
+SEEGAME_7Day_X1221
+------------
 SEEGAME_Free10D
 SEEGAME_Free15Day
