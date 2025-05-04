@@ -1,6 +1,3 @@
---------
-SEEGAME_7Day_X131
---------
 SEEGAME_7Day_X1221
 ------------
 SEEGAME_7Day_X13312
@@ -13,6 +10,8 @@ SEEGAME_7Day_Xere90
 SEEGAME_7Day_Xe756
 ------------
 SEEGAME_7Day_Xe75699
+------------
+SEEGAME_7Day_Xe756122
 ------------
 SEEGAME_15Day_Xe75699a
 SEEGAME_Free10D
