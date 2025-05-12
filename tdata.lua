@@ -1,11 +1,2 @@
-------------
-SEEGAME_7Day_Xe8432
-------------
-SEEGAME_7Day_Xe84322
-------------
-SEEGAME_7Day_X41A3
-------------
-SEEGAME_7Day_X41re
-------------
-SEEGAME_15Day_Xe75699a
-SEEGAME_save211
+M03M75X918ZF74CG
+NUWREUTUK8FUM6B6
