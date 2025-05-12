@@ -1,6 +1,3 @@
-SEEGAME_7Day_Xe756122
-------------
-SEEGAME_7Day_Xe8955
 ------------
 SEEGAME_7Day_Xe8432
 ------------
